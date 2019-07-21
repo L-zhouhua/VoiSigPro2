@@ -1,0 +1,71 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QtAudio", "QtAudio\QtAudio.vcxproj", "{B12702AD-ABFB-343A-A199-8E24837244A3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ks02_01", "C:\Users\12860\Desktop\charts\src\chapter02\ks02_01\ks02_01.vcxproj", "{E724536A-BB02-3EB2-ABEE-0910D50112E9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QtAudio2", "QtAudio2\QtAudio2.vcxproj", "{924A0E38-4DDE-4B3B-B186-45573C04E0F1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.vcxproj", "{40873591-38AE-47D5-8582-AF05B863461D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QtChartsTest", "C:\Users\12860\Desktop\语音分析-毕设\QtChartsTest\QtChartsTest.vcxproj", "{22BDF46F-C225-30E1-8E38-FB5DDBAF2CC2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "axis-tags-example", "C:\Users\12860\Desktop\qcustomplot\examples\axis-tags\axis-tags-example.vcxproj", "{7851689E-947A-37FA-8211-BC3320449033}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B12702AD-ABFB-343A-A199-8E24837244A3}.Debug|x64.ActiveCfg = Debug|x64
+		{B12702AD-ABFB-343A-A199-8E24837244A3}.Debug|x64.Build.0 = Debug|x64
+		{B12702AD-ABFB-343A-A199-8E24837244A3}.Debug|x86.ActiveCfg = Debug|x64
+		{B12702AD-ABFB-343A-A199-8E24837244A3}.Release|x64.ActiveCfg = Release|x64
+		{B12702AD-ABFB-343A-A199-8E24837244A3}.Release|x64.Build.0 = Release|x64
+		{B12702AD-ABFB-343A-A199-8E24837244A3}.Release|x86.ActiveCfg = Release|x64
+		{E724536A-BB02-3EB2-ABEE-0910D50112E9}.Debug|x64.ActiveCfg = Debug|x64
+		{E724536A-BB02-3EB2-ABEE-0910D50112E9}.Debug|x64.Build.0 = Debug|x64
+		{E724536A-BB02-3EB2-ABEE-0910D50112E9}.Debug|x86.ActiveCfg = Debug|x64
+		{E724536A-BB02-3EB2-ABEE-0910D50112E9}.Release|x64.ActiveCfg = Release|x64
+		{E724536A-BB02-3EB2-ABEE-0910D50112E9}.Release|x64.Build.0 = Release|x64
+		{E724536A-BB02-3EB2-ABEE-0910D50112E9}.Release|x86.ActiveCfg = Release|x64
+		{924A0E38-4DDE-4B3B-B186-45573C04E0F1}.Debug|x64.ActiveCfg = Debug|x64
+		{924A0E38-4DDE-4B3B-B186-45573C04E0F1}.Debug|x64.Build.0 = Debug|x64
+		{924A0E38-4DDE-4B3B-B186-45573C04E0F1}.Debug|x86.ActiveCfg = Debug|x64
+		{924A0E38-4DDE-4B3B-B186-45573C04E0F1}.Release|x64.ActiveCfg = Release|x64
+		{924A0E38-4DDE-4B3B-B186-45573C04E0F1}.Release|x64.Build.0 = Release|x64
+		{924A0E38-4DDE-4B3B-B186-45573C04E0F1}.Release|x86.ActiveCfg = Release|x64
+		{40873591-38AE-47D5-8582-AF05B863461D}.Debug|x64.ActiveCfg = Debug|x64
+		{40873591-38AE-47D5-8582-AF05B863461D}.Debug|x64.Build.0 = Debug|x64
+		{40873591-38AE-47D5-8582-AF05B863461D}.Debug|x86.ActiveCfg = Debug|Win32
+		{40873591-38AE-47D5-8582-AF05B863461D}.Debug|x86.Build.0 = Debug|Win32
+		{40873591-38AE-47D5-8582-AF05B863461D}.Release|x64.ActiveCfg = Release|x64
+		{40873591-38AE-47D5-8582-AF05B863461D}.Release|x64.Build.0 = Release|x64
+		{40873591-38AE-47D5-8582-AF05B863461D}.Release|x86.ActiveCfg = Release|Win32
+		{40873591-38AE-47D5-8582-AF05B863461D}.Release|x86.Build.0 = Release|Win32
+		{22BDF46F-C225-30E1-8E38-FB5DDBAF2CC2}.Debug|x64.ActiveCfg = Debug|x64
+		{22BDF46F-C225-30E1-8E38-FB5DDBAF2CC2}.Debug|x64.Build.0 = Debug|x64
+		{22BDF46F-C225-30E1-8E38-FB5DDBAF2CC2}.Debug|x86.ActiveCfg = Debug|x64
+		{22BDF46F-C225-30E1-8E38-FB5DDBAF2CC2}.Release|x64.ActiveCfg = Release|x64
+		{22BDF46F-C225-30E1-8E38-FB5DDBAF2CC2}.Release|x64.Build.0 = Release|x64
+		{22BDF46F-C225-30E1-8E38-FB5DDBAF2CC2}.Release|x86.ActiveCfg = Release|x64
+		{7851689E-947A-37FA-8211-BC3320449033}.Debug|x64.ActiveCfg = Debug|x64
+		{7851689E-947A-37FA-8211-BC3320449033}.Debug|x64.Build.0 = Debug|x64
+		{7851689E-947A-37FA-8211-BC3320449033}.Debug|x86.ActiveCfg = Debug|x64
+		{7851689E-947A-37FA-8211-BC3320449033}.Release|x64.ActiveCfg = Release|x64
+		{7851689E-947A-37FA-8211-BC3320449033}.Release|x64.Build.0 = Release|x64
+		{7851689E-947A-37FA-8211-BC3320449033}.Release|x86.ActiveCfg = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88EEB9C3-9686-4617-B152-2FB66BB90C34}
+	EndGlobalSection
+EndGlobal
